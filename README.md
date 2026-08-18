@@ -2,8 +2,7 @@
 
 ## About Me
 - 🎓 BE Computer Graduate
-- 💻 Passionate about Data Science
-     and Machine Learning
+- 💻 Passionate about technology
 - 🌱 Currently open for oppurtunities across engineering and technology
 - 📍 Maharashtra, India
 - 📧 shivamsshinde25@gmail.com
