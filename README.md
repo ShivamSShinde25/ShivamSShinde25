@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓 BE Computer Graduate
-- 💻 Passionate about technology
+- 💻 Passionate and deeply into tech
 - 🌱 Currently open for oppurtunities across engineering and technology
 - 📍 Maharashtra, India
 - 📧 shivamsshinde25@gmail.com
